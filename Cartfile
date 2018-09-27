@@ -1,1 +1,2 @@
+github "hyperoslo/Cache"
 github "hyperoslo/Imaginary" ~> 4.0
